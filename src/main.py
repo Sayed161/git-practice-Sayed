@@ -6,3 +6,6 @@ def add(a,b):
     print(a+b)
 def subtract(a,b):
     print(b-a)
+
+def multiply(a,b):
+    print(a*b)
