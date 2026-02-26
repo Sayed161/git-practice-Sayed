@@ -1,0 +1,1 @@
+# This project is a fully functional E-commerce application designed to provide a seamless shopping experience. It allows users to explore different product categories, manage a virtual shopping cart, and complete purchases securely.
